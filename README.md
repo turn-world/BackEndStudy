@@ -3,3 +3,4 @@
 단축키 목록
 1. getter setter 단축키: alt + insert
 2. 수정 제안 단축키 : alt + enter
+3. ctrl+shift+T 새 테스트 생성
